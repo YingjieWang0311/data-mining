@@ -51,3 +51,66 @@
 
 **2.2 处理缺失数据**  
 - 处理缺失标称数据
+
+## 作业二：频繁模式与关联规则挖掘
+
+**作业报告**：[homework2_wyj.ipynb](homework2_wyj.ipynb)
+
+**数据集**：Oakland Crime Statistics 2011 to 2016
+
+- 数据集主页：https://www.kaggle.com/cityofoakland/oakland-crime-statistics-2011-to-2016
+- 下载链接：https://www.kaggle.com/cityofoakland/oakland-crime-statistics-2011-to-2016?select=records-for-2016.csv
+- 文件大小：22.6MB
+- 文件名：`records-for-2016.csv
+
+# 目录
+
+### 1. 处理数据集
+  * 1.1 加载数据集  
+  * 1.2 处理数据
+
+### 2. 找出频繁项集
+  * 2.1 算法实现
+  * 2.2 找出频繁项集
+
+### 3. 导出关联规则
+  * 3.1 定义关联规则类
+  * 3.2 算法实现
+  * 3.3 找出关联规则
+
+### 4. 评价关联规则
+  * Lift指标
+  * Conviction指标
+
+## 作业三：分类、预测与聚类
+
+**作业报告**：[homework3_wyj.ipynb](homework3_wyj.ipynb)
+
+**数据集**：Hotel Booking Demand
+
+- 数据集主页：<https://www.kaggle.com/jessemostipak/hotel-booking-demand>
+- 下载链接：<https://www.kaggle.com/jessemostipak/hotel-booking-demand>
+- 文件大小：16MB
+- 文件名：`hotel_bookings.csv`
+
+# 目录
+
+**1 数据基本信息**   
+
+**2 基本情况**
+
+- 城市酒店和假日酒店预订需求和入住率比较
+
+**3 用户行为**
+
+- 提前预订时间
+
+- 入住时长
+
+- 预订间隔
+
+- 餐食预订情况
+
+**4 最佳预订酒店时间**
+
+**5 利用Logistic预测酒店预订**
